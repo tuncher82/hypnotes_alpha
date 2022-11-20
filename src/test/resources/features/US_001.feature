@@ -3,4 +3,6 @@ Feature:
     Given user navigates to homepage
 
     #bu bir denemedir
-  #deneme gurhan
+    #deneme gurhan
+  # yeni deneme gurhan2
+
