@@ -12,6 +12,6 @@ Feature:
   # new selma
   # new line fatih
   # I send on fourteen selma
-#gurhan buraya kod yazdi
+
 # line 15 Fatih
 # 14 starts
