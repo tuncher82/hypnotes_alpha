@@ -2,7 +2,7 @@ Feature:
   Scenario:
     Given user navigates to homepage
 
-
+   # eliff
  #We haven't started yet We willlllll
   # New proje is started
     #BU SATIRI DEGISTIRIYORUM
@@ -10,7 +10,7 @@ Feature:
     #githuba ekledim.
   # burasini githubtan degistirdim
   # new selma
-  # new line fatih
+  # new line fatihg
   # I send on fourteen selma
 
 # line 15 Fatih
