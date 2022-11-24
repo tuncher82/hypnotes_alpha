@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="2" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="0.46">
-    <testcase classname="Register Page" name="Name, Surname, Email, Password fields must be visible." time="0.127">
-        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="30.004">
+    <testcase classname="Register Page" name="Name, Surname, Email, Password fields must be visible." time="29.739">
+        <system-out>
             <![CDATA[Given user is on home page..................................................passed
-When user hovers over sign up button........................................undefined
-And user selects client from opened menu....................................skipped
-Then user on client register page...........................................skipped
-Then assert Name field is displayed.........................................skipped
-Then assert Surname field is displayed......................................skipped
-Then assert Email field is displayed........................................skipped
-Then assert Password field is displayed.....................................skipped
+When user hovers over sign up button........................................passed
+And user selects client from opened menu....................................passed
+Then user on client register page...........................................passed
+Then assert Name field is displayed.........................................passed
+Then assert Surname field is displayed......................................passed
+Then assert Email field is displayed........................................passed
+Then assert Password field is displayed.....................................passed
 ]]>
-        </failure>
+        </system-out>
     </testcase>
     <testcase classname="Register Page" name="Name, Surname, Email, Password fields must be functional." time="0.002">
         <failure message="The scenario has no steps" type="java.lang.Exception"/>

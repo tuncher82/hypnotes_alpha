@@ -8,4 +8,9 @@ public class HomePage extends BasePage{
     @FindBy(xpath = "//a[@class='ant-dropdown-trigger BaseNavbar_dropBtn__zkmnE btn']")
     public WebElement signUpButton;
 
+    @FindBy(xpath = "//a[contains(text(),'Client')]")
+    public WebElement clientButton;
+
+
+
 }
